@@ -12,3 +12,7 @@ https://github.com/gen2brain/raylib-go
 
 Specifically this pong game
 https://github.com/gen2brain/raylib-go/blob/master/examples/games/pong/main.go
+
+
+Raylib docs
+https://pkg.go.dev/github.com/gen2brain/raylib-go/raylib
