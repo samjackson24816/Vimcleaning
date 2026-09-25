@@ -19,4 +19,4 @@ Words are generated from a database of commonly used words
 
 The word generation should be instant---the idea is you bring up the window with a hotkey and then get rid of it the moment you have something else to do.  The whole game should be centered around that idea
 
-
+I want to make this with no agents.  Learn by hand
